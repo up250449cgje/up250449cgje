@@ -8,15 +8,10 @@
 
 <!-- Imagen principal -->
 <p align="center">
-  <img width="900" src="https://wallpapercave.com/wp/wp9014445.jpg">
+  <img width="900" src="https://i.pinimg.com/736x/93/c0/0f/93c00f0fa4d6d3b2818281edf73c4f6c.jpg">
 </p>
 
 ---
-
-<!-- Imagen secundaria -->
-<p align="center">
-  <img width="350" src="https://wallpapercave.com/wp/wp11855363.jpg">
-</p>
 
 ## 🚀 About Me
 
@@ -78,17 +73,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
-<!--
-**up250449cgje/up250449cgje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
