@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Emilio Chávez Guerra</h1>
+<h3 align="center">A passionate frontend developer from México</h3>
 
 - 🔭 I am studying at **Universidad Politecnica de Aguascalientes**
 
 - 💬 Ask me about **Redes y sistemas operativos**
+
+- 📫 How to reach me **up250449@alumnos.upa.edu.mx**
 
 - ⚡ Fun fact **Juego Clash Royale**
 
