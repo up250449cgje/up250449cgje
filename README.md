@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Technology+Enthusiast;Future+Software+Developer;Learning+Programming+Everyday;Passionate+About+Innovation" />
 </p>
 
+<p align="center">
+  <img width="900" src="https://wallpapercave.com/wp/wp9427429.jpg">
+</p>
+
 ---
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5OHVzM2xwN3VhM3V0eDJtbzA0N3I0cjd0dnh5cHJ6OGw4dXo3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
