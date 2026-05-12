@@ -6,14 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Technology+Enthusiast;Future+Software+Developer;Learning+Programming+Everyday;Passionate+About+Innovation" />
 </p>
 
+<!-- Imagen principal -->
 <p align="center">
-  <img width="900" src="https://wallpapercave.com/wp/wp9427429.jpg">
+  <img width="900" src="https://wallpapercave.com/wp/wp9014445.jpg">
 </p>
 
 ---
 
+<!-- Imagen secundaria -->
 <p align="center">
-  <img width="350" src="https://media.giphy.com/media/3o7TKsQ8UQxL5gG7sA/giphy.gif">
+  <img width="350" src="https://wallpapercave.com/wp/wp11855363.jpg">
 </p>
 
 ## 🚀 About Me
@@ -76,7 +78,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
-
 <!--
 **up250449cgje/up250449cgje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
