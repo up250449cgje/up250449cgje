@@ -12,7 +12,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img width="350" src="https://media.giphy.com/media/3o7TKsQ8UQxL5gG7sA/giphy.gif">
+</p>
 
 ## 🚀 About Me
 
