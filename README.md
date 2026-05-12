@@ -8,7 +8,7 @@
 
 <!-- Imagen principal -->
 <p align="center">
-  <img width="900" src="https://i.pinimg.com/736x/93/c0/0f/93c00f0fa4d6d3b2818281edf73c4f6c.jpg">
+  <img width="900" src="https://i.pinimg.com/736x/8b/42/74/8b42748887eecfbb966479de5bc49bf2.jpg">
 </p>
 
 ---
