@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, soy Juan Emilio Chávez Guerra</h1>
-<h3 align="center">Apasionado desarrollador frontend de México</h3>
+<h1 align="center">Hi 👋, I'm Juan Emilio Chávez Guerra</h1>
+<h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 Actualmente estoy trabajando en **Universidad Politécnica de Aguascalientes**
+- I am studying at **Universidad Politecnica de Aguascalientes**
 
-- 💬 Pregúntame sobre **Redes y sistemas operativos**
+- 💬 Ask me about **Redes y sistemas operativos**
 
-- ⚡ Dato curioso **Juego Clash Royale**
+- ⚡ Fun fact **Juego Clash Royale**
 
-<h3 align="left">Conéctate conmigo: </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/emiliochvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiliochvz" height="30" width="40" /></a>
 </p>
