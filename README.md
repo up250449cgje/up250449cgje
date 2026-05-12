@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5OHVzM2xwN3VhM3V0eDJtbzA0N3I0cjd0dnh5cHJ6OGw4dXo3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
 ## 🚀 About Me
 
@@ -70,7 +70,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
-
 
 <!--
 **up250449cgje/up250449cgje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
