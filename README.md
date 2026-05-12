@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 ## 🚀 About Me
 
@@ -43,14 +43,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
