@@ -5,50 +5,51 @@ Engineering Student in Information Technology & Digital Innovation 🇲🇽
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Technology+Enthusiast;Learning+Something+New+Everyday;Passionate+About+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Technology+Enthusiast;Future+Software+Developer;Learning+Programming+and+Innovation;Always+Improving+Every+Day" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 🎓 Student of **Ingeniería en Tecnologías de la Información e Innovación Digital**
-- 🏫 Studying at **Universidad Politécnica de Aguascalientes**
-- 💻 Interested in **Software, Artificial Intelligence and Technology**
-- 📚 Currently learning programming, networking and operating systems
-- ⚡ Passionate about innovation and future technologies
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,html,css,vscode,linux" />
-</p>
+- 🎓 Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital
+- 🏫 Universidad Politécnica de Aguascalientes
+- 💻 Interesado en tecnología, software e inteligencia artificial
+- 📚 Actualmente aprendiendo programación y fortaleciendo mis bases
+- ⚡ Me gusta aprender sobre innovación y nuevas tecnologías
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Intereses
+
+- Inteligencia Artificial
+- Desarrollo de Software
+- Tecnología
+- Innovación Digital
+- Sistemas Operativos
+- Redes
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ Filosofía
+
+> "Aprender constantemente es parte del camino para construir grandes cosas."
+
+---
 
 <p align="center">
-<a href="https://instagram.com/TUUSUARIO" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Visitas&color=0e75b6&style=flat" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
