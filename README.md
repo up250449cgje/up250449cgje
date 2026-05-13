@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Technology+Enthusiast;Future+Software+Developer;Learning+Programming+Everyday;Passionate+About+Innovation" />
 </p>
 
-<!-- GIF principal -->
+<!-- Banner binario -->
 <p align="center">
-  <img width="900" src="https://i.pinimg.com/originals/5f/4e/71/5f4e71c7d9f9a35a4dcb1b4c9d7d3a4.gif">
+  <img width="900" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 </p>
 
 ---
