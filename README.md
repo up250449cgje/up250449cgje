@@ -20,10 +20,6 @@
 
 </div>
 
-### Engineering Student • Cybersecurity • Artificial Intelligence • Networking
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Learning+Networking+%26+Programming;Interested+in+Cybersecurity+and+AI;Building+My+Future+in+Technology" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
