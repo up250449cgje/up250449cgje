@@ -5,7 +5,7 @@ Engineering Student in Information Technology & Digital Innovation from México 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Technology+Enthusiast;Future+Software+Developer;Passionate+About+Innovation;Learning+Programming+Everyday;Artificial+Intelligence+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=Future+Systems+Engineer;Cybersecurity+%26+AI+Enthusiast;Learning+Networking+and+Programming;Passionate+About+Technology+and+Innovation" />
 </p>
 
 <p align="center">
@@ -19,33 +19,40 @@ Engineering Student in Information Technology & Digital Innovation from México 
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```yaml
 Name: Juan Emilio Chávez Guerra
 Location: México 🇲🇽
-Education: Ingeniería en Tecnologías de la Información e Innovación Digital
-University: Universidad Politécnica de Aguascalientes
-Interests:
+
+Education:
+  - Ingeniería en Tecnologías de la Información e Innovación Digital
+  - Universidad Politécnica de Aguascalientes
+
+Currently Learning:
+  - Networking & Routing
+  - Programming Fundamentals
+  - Python & C++
+  - Git & GitHub
+  - Operating Systems
+
+Areas of Interest:
+  - Cybersecurity
   - Artificial Intelligence
   - Software Development
-  - Technology & Innovation
   - Networking
-  - Operating Systems
-Currently Learning:
-  - Programming Fundamentals
-  - Python
-  - Git & GitHub
+  - Technology & Innovation
+
 Goal:
-  - Become a Software Engineer
+  - Become a Systems & Software Engineer
 ```
 
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux,html,css" />
 </p>
 
 ---
@@ -53,16 +60,30 @@ Goal:
 # ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=blue">
-  
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=orange">
-  
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
-  
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=yellow">
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=blue">
+
+<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
+
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=orange">
+
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
+
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=yellow">
+
 </p>
+
+---
+
+# 📚 Currently Focusing On
+
+- 🌐 Networking and Routing
+- 🔐 Cybersecurity Fundamentals
+- 🤖 Artificial Intelligence
+- 💻 Software Development
+- 🚀 Improving programming logic and problem solving
 
 ---
 
@@ -76,16 +97,7 @@ Goal:
 
 ---
 
-# 🧠 Currently Focusing On
-
-- 📚 Strengthening programming logic
-- 🤖 Learning about Artificial Intelligence
-- 💻 Building future software projects
-- 🚀 Improving as a technology student
-
----
-
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
@@ -93,11 +105,11 @@ Goal:
 
 ---
 
-# 🌌 Developer Quote
+# 🌌 Philosophy
 
 <p align="center">
 
-> "Technology changes the world, and I want to be part of that change."
+> "Technology and continuous learning are the foundation of innovation."
 
 </p>
 
