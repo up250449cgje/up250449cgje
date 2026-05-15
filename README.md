@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Juan%20Emilio%20Ch%C3%A1vez%20Guerra&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:000000,25:0D1117,50:1F6FEB,75:00BFFF,100:38BDF8"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Juan%20Emilio%20Ch%C3%A1vez%20Guerra&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:000000,25:0D1117,50:1F6FEB,75:00BFFF,100:38BDF8"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Engineering+Student+%7C+Technology+Enthusiast;Cybersecurity+%26+Artificial+Intelligence;Networking+%26+Software+Development;Building+Skills+for+the+Future" />
 
 <p align="center">
