@@ -14,16 +14,6 @@
   <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=58A6FF">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 </div>
 
 ---
