@@ -28,14 +28,6 @@
 
 ---
 
-<div align="center">
-
-<img width="1000" src="https://i.pinimg.com/originals/1b/7b/39/1b7b39f7a61c6f0c7b6a0c6b7dfd9a9b.gif">
-
-</div>
-
----
-
 # 💫 About Me
 
 ```yaml
