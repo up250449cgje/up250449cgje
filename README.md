@@ -65,12 +65,6 @@ Current Goal:
 
 ---
 
-# 🌌 Philosophy
-
-<div align="center">
-
-> “Every expert was once a beginner passionate about learning.”
-
 </div>
 
 # 🌌 Digital Philosophy
