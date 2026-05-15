@@ -24,33 +24,28 @@
 Name: Juan Emilio Chávez Guerra
 Location: México 🇲🇽
 
-Career:
+Education:
   Ingeniería en Tecnologías de la Información e Innovación Digital
-
-University:
   Universidad Politécnica de Aguascalientes
 
 Currently Learning:
   - Networking & Routing
+  - Programming Fundamentals
   - Python
   - C++
   - Git & GitHub
   - Operating Systems
 
-Areas of Interest:
+Interested In:
   - Cybersecurity
   - Artificial Intelligence
   - Software Development
+  - Networking
   - Technology & Innovation
+
+Current Goal:
+  Strengthen my technical skills and continue learning about technology.
 ```
-
----
-
-# ⚡ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux,html,css" />
-</p>
 
 ---
 
@@ -58,37 +53,25 @@ Areas of Interest:
 
 <div align="center">
 
-| Focus Area | Description |
+| Learning | Focus |
 |---|---|
-| 🌐 Networking | Learning routing and network fundamentals |
-| 🔐 Cybersecurity | Exploring security concepts and systems |
-| 🤖 Artificial Intelligence | Interested in AI and future technologies |
-| 💻 Programming | Improving logic and coding skills |
-| 🚀 Innovation | Constantly learning new technologies |
+| 🌐 Networking | Understanding routing and network fundamentals |
+| 💻 Programming | Improving logic and programming skills |
+| 🤖 Artificial Intelligence | Exploring concepts and future applications |
+| 🔐 Cybersecurity | Learning about digital security fundamentals |
+| 🚀 Technology | Expanding knowledge in modern technologies |
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🌌 Philosophy
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+> “Every expert was once a beginner passionate about learning.”
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
+</div>
 
 # 🌌 Digital Philosophy
 
