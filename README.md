@@ -12,9 +12,9 @@ Engineering Student in Information Technology & Digital Innovation from México 
   <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- Banner tecnológico -->
+<!-- Banner tecnológico profesional -->
 <p align="center">
-  <img width="1000" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
+  <img width="1000" src="https://i.pinimg.com/1200x/8b/42/74/8b42748887eecfbb966479de5bc49bf2.jpg">
 </p>
 
 ---
@@ -31,7 +31,6 @@ Education:
 
 Currently Learning:
   - Networking & Routing
-  - Programming Fundamentals
   - Python & C++
   - Git & GitHub
   - Operating Systems
@@ -69,7 +68,7 @@ Goal:
 
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
 
-<img src="https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
 
 <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=yellow">
 
