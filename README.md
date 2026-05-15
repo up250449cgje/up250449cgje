@@ -7,11 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Information%20Technology-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
 
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=58A6FF">
-
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF">
-
-  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=58A6FF">
 </p>
 
 </div>
